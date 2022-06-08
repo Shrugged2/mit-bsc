@@ -1,5 +1,5 @@
 # MIT BSc in Computer Science and Engineering
-This is a fully online, free curriculum from MIT OpenCourseWare that closely matches the actual [Bachelor's of Science in Computer Science and Engineering](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/) offered in person at MIT. You won’t be awarded a degree for taking these free online courses, but you’ll get largely the same knowledge from them and you'll save over a third of a million dollars along the way.
+This is a fully online, self directed, free curriculum from MIT OpenCourseWare that closely matches the actual [Bachelor's of Science in Computer Science and Engineering](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/) offered in person at MIT. You won’t be awarded a degree for taking these free online courses, but you’ll get largely the same knowledge from them and you'll save over a third of a million dollars along the way.
 
 The 6-3 Computer Science and Engineering curriculum builds primarily on the Calculus II GIR; not all subjects require a GIR as a pre-requisite.
 ## Introductory subjects
